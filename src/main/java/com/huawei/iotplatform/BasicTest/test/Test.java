@@ -4,8 +4,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Random;
 
-import com.huawei.iotplatform.client.invokeapi.Authentication;
-import com.huawei.iotplatform.client.invokeapi.DeviceManagement;
 import com.huawei.iotplatform.client.NorthApiClient;
 import com.huawei.iotplatform.client.NorthApiException;
 import com.huawei.iotplatform.client.dto.AuthOutDTO;
@@ -14,6 +12,8 @@ import com.huawei.iotplatform.client.dto.ModifyDeviceInforInDTO;
 import com.huawei.iotplatform.client.dto.RegDirectDeviceInDTO2;
 import com.huawei.iotplatform.client.dto.RegDirectDeviceOutDTO;
 import com.huawei.iotplatform.client.dto.SSLConfig;
+import com.huawei.iotplatform.client.invokeapi.Authentication;
+import com.huawei.iotplatform.client.invokeapi.DeviceManagement;
 import com.huawei.iotplatform.client.testapi.BasicTest;
 import com.huawei.iotplatform.utils.PropertyUtil;
 

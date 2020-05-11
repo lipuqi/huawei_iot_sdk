@@ -21,6 +21,7 @@ import com.huawei.iotplatform.client.invokeapi.BatchProcess;
 import com.huawei.iotplatform.utils.AuthUtil;
 import com.huawei.iotplatform.utils.PropertyUtil;
 
+
 /**
  * 批量处理
  * 

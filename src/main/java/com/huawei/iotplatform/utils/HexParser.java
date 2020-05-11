@@ -1,9 +1,9 @@
 package com.huawei.iotplatform.utils;
 
-import io.netty.buffer.ByteBuf;
-
 import java.math.BigInteger;
 import java.nio.charset.Charset;
+
+import io.netty.buffer.ByteBuf;
 
 /**
  * 简单介绍
